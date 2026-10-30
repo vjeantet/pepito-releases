@@ -3,13 +3,13 @@
   <channel>
     <title>pepito</title>
     <item>
-      <title>Version 26.62</title>
-      <sparkle:version>26.62</sparkle:version>
-      <sparkle:shortVersionString>26.62</sparkle:shortVersionString>
+      <title>Version 26.63</title>
+      <sparkle:version>26.63</sparkle:version>
+      <sparkle:shortVersionString>26.63</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/vjeantet/pepito-releases/releases/download/v26.62/pepito.dmg"
-                 sparkle:edSignature="b4zEUDRJF0P2mbpfLwTPXHo2h2C4fsfsNqlfHHBGIaHC7pLbLK9Ofh6DCW2ZYS1TZe75ZaX0LaEIZ9+6uZB9BQ=="
-                 length="10361423"
+      <enclosure url="https://github.com/vjeantet/pepito-releases/releases/download/v26.63/pepito.dmg"
+                 sparkle:edSignature="wlhUNNKOrxozVMY4HZbTUxaw5VI65c1/1z7bd+/4+kMw38ufvEf2fglVOnStG6vqPmRYqolFPk0vFGhQC2SWDA=="
+                 length="10403572"
                  type="application/octet-stream"/>
     </item>
   </channel>
